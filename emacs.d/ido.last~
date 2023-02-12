@@ -1,0 +1,35 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/shachar/Projects/" . "cyber_basic_dns/")
+ ("/home/shachar/" . "Projects/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/shachar/Projects/cyber_basic_dns/"
+ "/home/shachar/"
+ "/home/shachar/Projects/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "simula.py"
+ "test.txt"
+ ".emacs"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/shachar/Projects/cyber_basic_dns/" (25577 9388 183746 648000) "test.txt" "simula.py" "simula.py~" "protocol.py" "../" "./")
+
+ ("/home/shachar/" (25577 8866 153089 728000) ".#.emacs" ".emacs" ".emacs~" "my-snapd.pp" "my-snapd.te" ".emacs.d/" ".steampid" ".steampath" ".gtkrc-2.0-kde4" ".gtkrc-2.0" ".npm/" "Projects/" "Vaults/" ".nv/" ".steam/" ".nvidia-settings-rc" ".gnupg/" ".pki/" ".icons/" ".fonts.conf" ".Xclients-default" ".Xclients" ".bash_history" ".python_history" "Videos/" "Pictures/" "Music/" "Documents/" "Public/" "Templates/" "Downloads/" "Desktop/" ".local/" ".config/" ".cache/" ".bashrc" ".bash_profile" ".bash_logout" ".mozilla/" "../" "./")
+
+ ("/home/" (25574 11454 476621 514000) "shachar/" "../" "./")
+
+ ("/home/shachar/Projects/" (25574 48553 587189 56000) "cyber_basic_dns/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
